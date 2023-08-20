@@ -50,18 +50,18 @@ int main(){
     //輸出男或女
     printf("出生地: ");
     switch (City){
-        case 'A': printf("台北市"); break;   case 'P': printf("雲林縣"); break;
-        case 'B': printf("台中市") ;break;   case 'Q': printf("嘉義縣"); break;
-        case 'C': printf("基隆市") ;break;   case 'R': printf("台南縣"); break;
-        case 'D': printf("台南市") ;break;   case 'S': printf("高雄縣"); break;
+        case 'A': printf("臺北市"); break;   case 'P': printf("雲林縣"); break;
+        case 'B': printf("臺中市") ;break;   case 'Q': printf("嘉義縣"); break;
+        case 'C': printf("基隆市") ;break;   case 'R': printf("臺南縣"); break;
+        case 'D': printf("臺南市") ;break;   case 'S': printf("高雄縣"); break;
         case 'E': printf("高雄市") ;break;   case 'T': printf("屏東縣"); break;
         case 'F': printf("新北市") ;break;   case 'U': printf("花蓮縣"); break;
-        case 'G': printf("宜蘭縣") ;break;   case 'V': printf("台東縣"); break;
+        case 'G': printf("宜蘭縣") ;break;   case 'V': printf("臺東縣"); break;
         case 'H': printf("桃園縣") ;break;   case 'W': printf("金門縣"); break;
         case 'I': printf("嘉義市") ;break;   case 'X': printf("澎湖縣"); break;
         case 'J': printf("新竹縣") ;break;   case 'Y': printf("陽明山管理局"); break;
         case 'K': printf("苗栗縣") ;break;   case 'Z': printf("連江縣"); break;
-        case 'L': printf("台中縣") ;break;   
+        case 'L': printf("臺中縣") ;break;   
         case 'M': printf("南投縣") ;break;   
         case 'N': printf("彰化縣") ;break;   
         case 'O': printf("新竹市") ;break;
