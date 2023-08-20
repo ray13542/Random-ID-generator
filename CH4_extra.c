@@ -33,7 +33,7 @@ int main(){
     int ID[9];
     int testnum = 0;
     int tmp;                    //宣告必要整數
-    printf("輸入性別(男1女2): ");   
+    printf("輸入性別(1男2女): ");   
     scanf("%d",&ID[0]);         //首位數字取1或2(1為男性、2為女性)
     City = Capital[rand()%26];  //首字母為城市(從字母樣本陣列隨機取一字母)
     for ( j = 0; j < 7; j++){
